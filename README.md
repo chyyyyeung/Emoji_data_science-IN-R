@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
 
 Recently, I have been working on Emoji analysis in daily conversation focusing on linguistic field. During the research, I made some discovery which I find quite interesting. MoCoda is a research-oriented database which obtains data through voluntary upload from the users. In order to have a full access to the database, an account is required.
-
-
-
+As for the package in R, I primaryly use rvest, tidyverse, ggplot2 and emo. I use rvest and tidyverse for data processing, ggplot2 for data visualization. Emo provides the full list of 3507 emojis, and many useful tools such as emoji matching, filtering. Of course, it is not the only way to do it, but this package make things easier.
 
 
 You can use the [editor on GitHub](https://github.com/chyyyyeung/Emoji_data_science-IN-R/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
